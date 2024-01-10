@@ -24,8 +24,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayowa-ojuade-b54792171)]([https://www.linkedin.com/in/mayowa-ojuade-b54792171/](https://www.linkedin.com/in/mayowa-ojuade-b54792171/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mayorsberg/)](https://www.instagram.com/mayorsberg/))
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayowa-ojuade-b54792171)]([https://www.linkedin.com/in/mayowa-ojuade-b54792171/](https://www.linkedin.com/in/mayowa-ojuade-b54792171/))
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mayorsberg/)](https://www.instagram.com/mayorsberg/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@mayorsberg2k5@gmail.com)](mailto:mail@mayorsberg2k5@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Nigerian food so much. I could eat it daily. 
