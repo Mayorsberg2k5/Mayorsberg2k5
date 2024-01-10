@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayowa-ojuade/)]([https://www.linkedin.com/in/jayraj-roshan/](https://www.linkedin.com/in/mayowa-ojuade-b54792171/))
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayowa-ojuade-b54792171)]([https://www.linkedin.com/in/mayowa-ojuade-b54792171/](https://www.linkedin.com/in/mayowa-ojuade-b54792171/))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mayorsberg/)](https://www.instagram.com/mayorsberg/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@mayorsberg2k5@gmail.com)](mailto:mail@mayorsberg2k5@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-</>details?
+</details>
