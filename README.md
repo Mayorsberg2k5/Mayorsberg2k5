@@ -21,9 +21,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 - 🔭 I’m currently working on a special web design project. Stay tuned!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently upskilling with Javascript
 - 👯 I’m looking to collaborate on Web Design Projects
-- 🤔 I’m looking for help with Javascript 😆
+- 🤔 I’m looking for collaborators Javascript 😆
 - 💬 Ask me about anything sports, music, or anime related
 - 📫 How to reach me
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayowa-ojuade-b54792171)](https://www.linkedin.com/in/mayowa-ojuade-b54792171/)
